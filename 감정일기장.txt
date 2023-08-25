@@ -1,0 +1,34 @@
+감정일기장 
+1.메인페이지
+2.일기 작성 페이지
+3.일기 확인 페이지 
+
+MPA : multi Page App
+
+
+서버데이터 "호스팅"
+> 파일질라(FTP) / 닷홈(무료호스팅 서버)
+> 카페24 무료 호스팅 서버
+
+SSR: Server Side Rendering
+
+* 리액트 
+SPA : singe page App
+CSR : client side Rendering
+
+
+페이지 라우팅
+
+
+>동적 경로 라우팅  
+- 특정 페이지에 값을 부여해서 URL 을 생성해주는 것 
+- 일정한 패턴을 가지고 있는 경우 
+
+1. URL 파라미터 
+https://emotion-diary-winterlood.web.app/diary/3
+https://emotion-diary-winterlood.web.app/diary/2
+https://emotion-diary-winterlood.web.app/diary/1
+
+2. 쿼리스트링 - 복잡한 링크 
+URL?key = value&key = value&key = value
+https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=nike
